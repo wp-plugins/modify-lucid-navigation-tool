@@ -1,7 +1,7 @@
 === Modify Lucid Navigation Tool ===
 Contributors: seboek
 Donate link: http://www.j5media.de
-Tags: elegantthemes,elegant themes,css,style,navigation,lucid,nav,animation,slide,clean
+Tags: elegantthemes,elegant themes,css,style,navigation,lucid,nav,animation,slide,clean menu items,menu
 Requires at least: 3.3
 Tested up to: 3.5.1
 Stable tag: trunk
@@ -19,7 +19,7 @@ The 'Modify Lucid Navigation Tool' clean up the navigation style of Lucid Theme 
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently asked questions ==
-= Have to buy a licence from ElegantThemes first? =
+= Do I have to buy a licence for ElegantThemes first? =
 Yes
 
 == Screenshots ==
