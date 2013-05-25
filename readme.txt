@@ -11,10 +11,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Modify the navigation style of Lucid Theme from ElegantThemes.
 
 == Description ==
-The 'Modify Lucid Navigation Tool' clean up the navigation style of Lucid Theme from ElegantThemes. No animation and no slide of menu items.
+The 'Modify Lucid Navigation Tool' cleans up the navigation style of Lucid Theme from ElegantThemes. No animations and no sliding effects of menu items.
 
 == Installation ==
-1. Install the Lucid Theme from ElegeantThemes
+1. Install the Lucid Theme from ElegantThemes
 2. Upload 'ModifyLucidNav.php' to the '/wp-content/plugins/' directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
